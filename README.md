@@ -23,7 +23,7 @@
 
 #### 方法一：直接运行EXE文件（推荐）
 
-1. 从Release页面下载最新的EXE文件
+1. [从Release页面下载最新的EXE文件](https://github.com/Atrexe/douyin_mf/releases/tag/v1.0.0)
 2. 双击运行，无需安装任何环境
 
 #### 方法二：从源码运行
